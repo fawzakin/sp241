@@ -1,0 +1,4 @@
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+ZCZC W00 20 L03 Setting up this github repository
