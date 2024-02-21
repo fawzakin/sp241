@@ -3,4 +3,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 ZCZC W00 20 L03 Setting up this github repository
 ZCZC W00 60 L06 Reading Assignment for W00
-ZCZC W00 120 L10 Installing Debian VM and doing other W00 assignment.
+ZCZC W00 120 L10 Installing Debian VM and doing other W00 assignment
+ZCZC W01 150 L02 Following class and finishing two of the assignment
+ZCZC W01 30 L05 Finishing all quiz on Scele
+ZCZC W01 60 L11 Compiling Kernel, tlpi, and finishing assignment for W01
