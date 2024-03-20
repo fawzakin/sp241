@@ -8,3 +8,5 @@ ZCZC W01 150 L02 Following class and finishing two of the assignment
 ZCZC W01 30 L05 Finishing all quiz on Scele
 ZCZC W01 60 L11 Compiling Kernel, tlpi, and finishing assignment for W01
 ZCZC W02 240 L12 Creating Linux From Scratch and archiving backup for /mnt/lfs
+ZCZC W03 120 L13 Writing FUSE program
+ZCZC W04 120 L14 Making getopts
