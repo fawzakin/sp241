@@ -10,3 +10,4 @@ ZCZC W01 60 L11 Compiling Kernel, tlpi, and finishing assignment for W01
 ZCZC W02 240 L12 Creating Linux From Scratch and archiving backup for /mnt/lfs
 ZCZC W03 120 L13 Writing FUSE program
 ZCZC W04 120 L14 Making getopts
+ZCZC W05 180 L15 Figuring out how the heck automake supposed to work
