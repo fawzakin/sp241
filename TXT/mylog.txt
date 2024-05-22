@@ -15,3 +15,4 @@ ZCZC W06 120 L16 I am so lazy
 ZCZC W07 180 L17 What am I doing?
 ZCZC W08 180 L18 Almost forgot to write this
 ZCZC W09 180 L19 We're almost there!
+ZCZC W10 180 L20 It's all over but the crying
